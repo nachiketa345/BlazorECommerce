@@ -6,6 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  
+
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="6.0.11" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="6.0.11" PrivateAssets="all" />
@@ -15,4 +17,5 @@
     <ProjectReference Include="..\Shared\BlazorECommerce.Shared.csproj" />
   </ItemGroup>
 
+ 
 </Project>
